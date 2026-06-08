@@ -10,7 +10,7 @@
 </p>
 
 <a href="#tiyouw-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tiyouw&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Tiyouw GitHub stats" align="right" width="410" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tiyouw&theme=github_dark" alt="Tiyouw GitHub stats" align="right" width="410" />
 </a>
 
 - :office: &nbsp;I'm a backend developer at **digos.id** and a university student.
@@ -126,16 +126,18 @@
 <h2 align="left">GitHub Activity</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiyouw&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tiyouw&theme=github_dark" alt="Tiyouw contribution graph" width="100%" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tiyouw&theme=github_dark" alt="Repos per language" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tiyouw&theme=github_dark" alt="Most committed languages" height="170" />
   <img src="https://streak-stats.demolab.com?user=Tiyouw&theme=transparent&hide_border=true" alt="GitHub streak" height="170" />
 </p>
 
-<!-- Optional: this image appears after the included GitHub Action runs in your profile repo. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tiyouw/Tiyouw/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tiyouw/Tiyouw/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Tiyouw/Tiyouw/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="left">
+  <img src="./assets/ai-agent-workflow.svg" alt="AI agent workflow banner" width="100%" />
+</p>
 
 <!-- links -->
 

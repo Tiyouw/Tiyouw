@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">AI Agent Workflow</title>
+  <desc id="desc">A dark workflow banner showing backend, AI agents, WhatsApp automation, deployment, and browser verification.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.45" stop-color="#111827"/>
+      <stop offset="1" stop-color="#022c22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title { font: 700 34px Inter, Segoe UI, Arial, sans-serif; fill: #f8fafc; }
+      .subtitle { font: 500 16px Inter, Segoe UI, Arial, sans-serif; fill: #cbd5e1; }
+      .card-title { font: 700 18px Inter, Segoe UI, Arial, sans-serif; fill: #f8fafc; }
+      .card-sub { font: 500 13px Inter, Segoe UI, Arial, sans-serif; fill: #94a3b8; }
+      .pill { font: 700 12px Inter, Segoe UI, Arial, sans-serif; fill: #020617; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" rx="22" fill="url(#bg)"/>
+  <path d="M0 210 C220 140, 310 250, 520 185 S850 80, 1200 150" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.55"/>
+  <path d="M0 225 C230 155, 360 255, 560 200 S860 115, 1200 175" fill="none" stroke="#38bdf8" stroke-width="1.5" opacity="0.25"/>
+
+  <g transform="translate(44 36)">
+    <rect x="0" y="0" width="1112" height="188" rx="18" fill="#020617" opacity="0.42" stroke="#334155"/>
+    <text x="28" y="44" class="title">Building practical systems with backend engineering + AI agents</text>
+    <text x="28" y="75" class="subtitle">SantriHub/EduHub integrations · SINAD+ insight engine · WhatsApp reminders · Coolify/VPS deploys · Browser-level verification</text>
+
+    <g transform="translate(28 112)">
+      <rect width="184" height="50" rx="14" fill="#0f172a" stroke="#38bdf8" opacity="0.95"/>
+      <circle cx="28" cy="25" r="10" fill="#38bdf8" filter="url(#glow)"/>
+      <text x="50" y="23" class="card-title">Backend APIs</text>
+      <text x="50" y="39" class="card-sub">Laravel · Node · DB</text>
+    </g>
+
+    <path d="M226 137 H286" stroke="#64748b" stroke-width="2" stroke-dasharray="6 6"/>
+    <polygon points="286,137 276,131 276,143" fill="#64748b"/>
+
+    <g transform="translate(300 112)">
+      <rect width="184" height="50" rx="14" fill="#0f172a" stroke="#22c55e" opacity="0.95"/>
+      <circle cx="28" cy="25" r="10" fill="#22c55e" filter="url(#glow)"/>
+      <text x="50" y="23" class="card-title">AI Agents</text>
+      <text x="50" y="39" class="card-sub">Hermes workflows</text>
+    </g>
+
+    <path d="M498 137 H558" stroke="#64748b" stroke-width="2" stroke-dasharray="6 6"/>
+    <polygon points="558,137 548,131 548,143" fill="#64748b"/>
+
+    <g transform="translate(572 112)">
+      <rect width="184" height="50" rx="14" fill="#0f172a" stroke="#a78bfa" opacity="0.95"/>
+      <circle cx="28" cy="25" r="10" fill="#a78bfa" filter="url(#glow)"/>
+      <text x="50" y="23" class="card-title">Automation</text>
+      <text x="50" y="39" class="card-sub">WhatsApp · Notion</text>
+    </g>
+
+    <path d="M770 137 H830" stroke="#64748b" stroke-width="2" stroke-dasharray="6 6"/>
+    <polygon points="830,137 820,131 820,143" fill="#64748b"/>
+
+    <g transform="translate(844 112)">
+      <rect width="220" height="50" rx="14" fill="#0f172a" stroke="#f59e0b" opacity="0.95"/>
+      <circle cx="28" cy="25" r="10" fill="#f59e0b" filter="url(#glow)"/>
+      <text x="50" y="23" class="card-title">Deploy + Verify</text>
+      <text x="50" y="39" class="card-sub">Coolify · VPS · E2E</text>
+    </g>
+  </g>
+
+  <g transform="translate(970 24)">
+    <rect width="168" height="28" rx="14" fill="url(#accent)"/>
+    <text x="84" y="19" text-anchor="middle" class="pill">Tiyouw / Ahimsa</text>
+  </g>
+</svg>
