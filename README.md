@@ -1,5 +1,5 @@
 <h1 align="left" id="tiyouw-title">:wave: Halo, I'm Ahimsa / Tiyouw</h1>
-<h3 align="left">Backend developer, student, and AI-agent automation builder from Jember, Indonesia.</h3>
+<h3 align="left">Fullstack Designer & Developer, student, and AI-agent automation builder from Jember, Indonesia.</h3>
 
 <p align="left">
   <a href="https://github.com/Tiyouw/Tiyouw"><img src="https://komarev.com/ghpvc/?username=Tiyouw&label=profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
