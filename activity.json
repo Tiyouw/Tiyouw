@@ -1,0 +1,35 @@
+{
+  "updated": "2026-11-28",
+  "year": 2026,
+  "total": 1628,
+  "commits": 1011,
+  "prs": 228,
+  "issues": 3,
+  "reviews": 0,
+  "private": 364,
+  "current": 7,
+  "longest": 20,
+  "allTime": 1771,
+  "topLangs": [
+    {
+      "name": "TypeScript",
+      "pct": 44.79902797396126
+    },
+    {
+      "name": "JavaScript",
+      "pct": 19.326123801818312
+    },
+    {
+      "name": "HTML",
+      "pct": 12.577717580303938
+    },
+    {
+      "name": "PHP",
+      "pct": 9.182496637501005
+    },
+    {
+      "name": "Blade",
+      "pct": 7.775004255506011
+    }
+  ]
+}
